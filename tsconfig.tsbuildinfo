@@ -1,0 +1,1 @@
+{"root":["./manifest.config.ts","./vite.config.ts","./src/content/background.ts","./src/content/content.ts","./src/content/picker.js","./src/popup/app.vue","./src/popup/main.ts","./src/popup/components/pickerwrap.vue"],"version":"5.8.3"}
